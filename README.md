@@ -32,8 +32,11 @@ Click the "Export File" button to select a save location and start the conversio
 Development environment requirements:
 
 Python 3.x
+
 Tkinter
+
 MoviePy
+
 [CJKVideoConverter Source](https://github.com/cyrusjameskhan/WorkspaceFileConverter/blob/main/FileConverterCJK.py)
 
 Contributing:
