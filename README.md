@@ -1,4 +1,4 @@
-# CJKFileConverter
+# CJK File Converter
 
 CJK Video Converter is a lightweight, cross-platform video conversion tool built with Python, Tkinter, and MoviePy. It provides an easy-to-use graphical user interface for converting videos between popular formats, resizing videos, and adjusting frame rates. Packaged with PyInstaller, CJK Video Converter is available as a standalone executable for Windows, macOS, and Linux, making it a perfect choice for users who need a simple, portable solution for their video conversion needs.
 
