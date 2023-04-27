@@ -12,13 +12,17 @@ Standalone executable for Windows, macOS, and Linux (created with PyInstaller)
 
 Development environment requirements:
 
+
 Python 3.x
 Tkinter
 MoviePy
+[CJKVideoConverter Source](https://github.com/cyrusjameskhan/WorkspaceFileConverter/blob/main/FileConverterCJK.py)
 
 Installation:
 
-Latest release: https://github.com/cyrusjameskhan/WorkspaceFileConverter/blob/main/FileConverterCJK.py
+[Latest exectuable:](https://github.com/cyrusjameskhan/WorkspaceFileConverter/releases/tag/v0.0.2)
+
+
 Download the latest release for your platform from the GitHub releases page.
 Extract the archive and locate the CJK Video Converter executable.
 Run the executable to launch the application.
