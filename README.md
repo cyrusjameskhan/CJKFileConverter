@@ -10,17 +10,9 @@ Set custom frame rates (FPS) for output videos
 Simple and intuitive graphical user interface
 Standalone executable for Windows, macOS, and Linux (created with PyInstaller)
 
-Development environment requirements:
-
-
-Python 3.x
-Tkinter
-MoviePy
-[CJKVideoConverter Source](https://github.com/cyrusjameskhan/WorkspaceFileConverter/blob/main/FileConverterCJK.py)
-
 Installation:
 
-[Latest exectuable:](https://github.com/cyrusjameskhan/WorkspaceFileConverter/releases/tag/v0.0.2)
+[Latest exectuable (v0.0.2)](https://github.com/cyrusjameskhan/WorkspaceFileConverter/releases/tag/v0.0.2)
 
 
 Download the latest release for your platform from the GitHub releases page.
@@ -37,6 +29,12 @@ Click the "Export File" button to select a save location and start the conversio
 
 ![CJK Video Converter demo](https://github.com/cyrusjameskhan/WorkspaceFileConverter/blob/main/Example.png)
 
+Development environment requirements:
+
+Python 3.x
+Tkinter
+MoviePy
+[CJKVideoConverter Source](https://github.com/cyrusjameskhan/WorkspaceFileConverter/blob/main/FileConverterCJK.py)
 
 Contributing:
 We welcome contributions! If you find a bug, have a feature request, or want to contribute code, please open an issue or submit a pull request on the GitHub repository.
