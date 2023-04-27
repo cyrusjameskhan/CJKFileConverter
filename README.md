@@ -18,6 +18,7 @@ MoviePy
 
 Installation:
 
+Latest release: https://github.com/cyrusjameskhan/WorkspaceFileConverter/blob/main/FileConverterCJK.py
 Download the latest release for your platform from the GitHub releases page.
 Extract the archive and locate the CJK Video Converter executable.
 Run the executable to launch the application.
