@@ -2,24 +2,27 @@
 
 CJK Video Converter is a lightweight, cross-platform video conversion tool built with Python, Tkinter, and MoviePy. It provides an easy-to-use graphical user interface for converting videos between popular formats, resizing videos, and adjusting frame rates. Packaged with PyInstaller, CJK Video Converter is available as a standalone executable for Windows, macOS, and Linux, making it a perfect choice for users who need a simple, portable solution for their video conversion needs.
 
-Features:
+#Features:
 
 Convert videos between popular formats (AVI, MP4, MOV)
 Resize videos by specifying width and height in pixels
 Set custom frame rates (FPS) for output videos
 Simple and intuitive graphical user interface
 Standalone executable for Windows, macOS, and Linux (created with PyInstaller)
-Requirements:
+
+#Development environment requirements:
 
 Python 3.x
 Tkinter
 MoviePy
-Installation:
+
+#Installation:
 
 Download the latest release for your platform from the GitHub releases page.
 Extract the archive and locate the CJK Video Converter executable.
 Run the executable to launch the application.
-Usage:
+
+#Usage:
 
 Click the "Import File" button to select a video file.
 Choose the desired output format (AVI, MP4, MOV) from the dropdown menu.
